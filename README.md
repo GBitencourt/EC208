@@ -14,7 +14,7 @@ Alunos:
     Felipe Jurioli
 
 
-	Este codigo implementa uma maquina virtual (interpretador) capaz de buscar,
+Este codigo implementa uma maquina virtual (interpretador) capaz de buscar,
 decodificar e executar um set de instrucao. Criado para demostrar o funcionamento
 de uma maquina virtual durante as aulas de EC-208.
 

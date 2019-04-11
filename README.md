@@ -1,6 +1,6 @@
 # EC208
-Projeto de Arquiteruas 2 do Inatel. 
-/********************************************************************************
+Projeto de Arquiteturas 2 do Inatel. 
+********************************************************************************
 
 
 					MAQUINA VIRTUAL DE <EC-208>
@@ -20,7 +20,7 @@ de uma maquina virtual durante as aulas de EC-208.
 
 ***********************************************************************************
 
-						Informacoes do Interpretadr
+						Informacoes do Interpretador
 
 	Tamanho das instrucoes: 32 bits
 
@@ -66,4 +66,4 @@ de uma maquina virtual durante as aulas de EC-208.
 			memoria 0 (0000000000000000 >> end. Memoria) para o registrador 0
 			(00000000 >> end. Reg )
 
-********************************************************************************/
+********************************************************************************

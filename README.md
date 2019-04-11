@@ -57,7 +57,7 @@ de uma maquina virtual durante as aulas de EC-208.
 
      	 (Tipo instr.) (End Reg) (End Memoria de dados)
 
-		    4 bits       4 bits        16 bits
+		    8 bits       8 bits        16 bits
 
    	   - Exemplo: 0b11110011000000000000000000000000
    	   	   	        11110011|00000000|0000000000000000|
